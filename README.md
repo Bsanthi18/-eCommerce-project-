@@ -16,7 +16,6 @@ The goal is to derive meaningful insights and trends from the dataset.
   
 ### SQL Tables Used
 
-<img src="https://images.geekster.in/experience/experience-img%20(4).webp" >
 <img src="https://drive.google.com/file/d/1FhOyMaqPB5ulZxaW5kyBChgW5plJBg2l/view?usp=sharing">
 <img src="https://drive.google.com/file/d/1FhOyMaqPB5ulZxaW5kyBChgW5plJBg2l/view?usp=sharing">
 <img src="https://drive.google.com/file/d/1n2aizT1DiDbqcihHr1MwO5vUVaF2omLY/view?usp=drive_link">
