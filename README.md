@@ -1,5 +1,5 @@
 # Brazilian E_Commerce Data Analysis
-![image]([https://github.com/Bsanthi18/-eCommerce-project-/assets/151654892/1f00f460-4c3e-4da5-9beb-024a3de6c806](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biztory.com%2Fchallenges%2Findustries%2Fretail-food&psig=AOvVaw3N0X8znXbqqkuVaJRtODiw&ust=1717177174852000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCi_4ONtoYDFQAAAAAdAAAAABAE))
+![alt text]([https://github.com/Bsanthi18/-eCommerce-project-/assets/151654892/1f00f460-4c3e-4da5-9beb-024a3de6c806](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biztory.com%2Fchallenges%2Findustries%2Fretail-food&psig=AOvVaw3N0X8znXbqqkuVaJRtODiw&ust=1717177174852000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCi_4ONtoYDFQAAAAAdAAAAABAE))
 ## Overview
 
 This project involves the analysis of Brazilian Ecommerce sales data using SQL.
