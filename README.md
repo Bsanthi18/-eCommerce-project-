@@ -17,12 +17,12 @@ The goal is to derive meaningful insights and trends from the dataset.
 ### SQL Tables Used
 
 <img src="https://drive.google.com/uc?id=1FhOyMaqPB5ulZxaW5kyBChgW5plJBg2l">
-<img src="https://drive.google.com/file/d/1FhOyMaqPB5ulZxaW5kyBChgW5plJBg2l/view?usp=sharing">
-<img src="https://drive.google.com/file/d/1n2aizT1DiDbqcihHr1MwO5vUVaF2omLY/view?usp=drive_link">
-<img src="https://drive.google.com/file/d/1z3mpQ5oilriCMDqJwPRYJ8LgP0WBesXi/view?usp=drive_link">
-<img src="https://drive.google.com/file/d/1bQZME9FZz8CyRkRYBKYaTaRdzcMHOUjw/view?usp=drive_link">
-<img src="https://drive.google.com/file/d/1ZZGE8Zpkbw9wh3nX8gOlH4gcolKHdCSg/view?usp=drive_link">
-<img src="https://drive.google.com/file/d/1nGkFpppwmoyLOAE-PldzczB5BHxJYomB/view">
+<img src="https://drive.google.com/uc?id=1FhOyMaqPB5ulZxaW5kyBChgW5plJBg2l">
+<img src="https://drive.google.com/uc?id=1n2aizT1DiDbqcihHr1MwO5vUVaF2omLY">
+<img src="https://drive.google.com/uc?id=1z3mpQ5oilriCMDqJwPRYJ8LgP0WBesXi">
+<img src="https://drive.google.com/uc?id=1bQZME9FZz8CyRkRYBKYaTaRdzcMHOUjw">
+<img src="https://drive.google.com/uc?id=1ZZGE8Zpkbw9wh3nX8gOlH4gcolKHdCSg">
+<img src="https://drive.google.com/uc?id=1nGkFpppwmoyLOAE-PldzczB5BHxJYomB">
 
 ### Insights
 * The Top 5 cities with the highest number of customers include sao paulo,rio de janero,bello horizonte,brasilia and curitiba.
