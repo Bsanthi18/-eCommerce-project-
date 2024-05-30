@@ -1,5 +1,5 @@
 # Brazilian E_Commerce Data Analysis
-![alt text]([https://github.com/Bsanthi18/-eCommerce-project-/assets/151654892/1f00f460-4c3e-4da5-9beb-024a3de6c806](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biztory.com%2Fchallenges%2Findustries%2Fretail-food&psig=AOvVaw3N0X8znXbqqkuVaJRtODiw&ust=1717177174852000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCi_4ONtoYDFQAAAAAdAAAAABAE))
+![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biztory.com%2Fchallenges%2Findustries%2Fretail-food&psig=AOvVaw3N0X8znXbqqkuVaJRtODiw&ust=1717177174852000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCi_4ONtoYDFQAAAAAdAAAAABAE)
 
 
 ## Overview
@@ -17,6 +17,7 @@ The goal is to derive meaningful insights and trends from the dataset.
 ### SQL Tables Used
 
 <img src="https://images.geekster.in/experience/experience-img%20(4).webp" >
+<img src="https://drive.google.com/file/d/1taZoIwPcrDMMUmJzNRpYnSiTpjgt1Ck8/view">
 ![image](https://drive.google.com/file/d/1taZoIwPcrDMMUmJzNRpYnSiTpjgt1Ck8/view?usp=drive_link)
 ![image](https://drive.google.com/file/d/1n2aizT1DiDbqcihHr1MwO5vUVaF2omLY/view?usp=drive_link)
 ![image](https://drive.google.com/file/d/1z3mpQ5oilriCMDqJwPRYJ8LgP0WBesXi/view?usp=drive_link)
