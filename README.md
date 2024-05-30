@@ -1,5 +1,5 @@
 # Brazilian E_Commerce Data Analysis
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.biztory.com%2Fchallenges%2Findustries%2Fretail-food&psig=AOvVaw3N0X8znXbqqkuVaJRtODiw&ust=1717177174852000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCi_4ONtoYDFQAAAAAdAAAAABAE)
+<img src="https://www.biztory.com/hubfs/retail%20ecommerce%20analytics.png">
 
 
 ## Overview
